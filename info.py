@@ -41,13 +41,13 @@ REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://sk16:sk16@bot5.jvjax.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "bot5")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'tg_world')
 
 # Others
 SHORTENR_URL = environ.get('SHORTENR_URL', 'shorturllink.in')
-SHORTNER_API = environ.get('SHORTNER_API', '')
+SHORTNER_API = environ.get('SHORTNER_API', 'd2ac0cef4a3d14ea75b37aa70c75a4acee726479')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/requestbox1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/requestbox1official')
                        
