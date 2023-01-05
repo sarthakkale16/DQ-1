@@ -101,12 +101,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ✘ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>
 ✘ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @rb1official"""
 
-    LOG_TEXT_G = """#𝗡𝗘𝗪𝗪
+    LOG_TEXT_G = """ɴᴇᴡɢʀᴘ
 ✧ ɢʀᴏᴜᴘ = {}(<code>{}</code>)
 ✧ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs = <code>{}</code>
 ✧ ᴀᴅᴅᴇᴅ ʙʏ - {}"""
 
-    LOG_TEXT_P = """#𝗡𝗘𝗪𝗪
+    LOG_TEXT_P = """#ɴᴇᴡᴜsʀ
 ✘ ɪᴅ - <code>{}</code>
 ✘ ɴᴀᴍᴇ - {}
 ✘ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @rb1official"""
@@ -179,7 +179,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <b>@rb1official </b> <code>{file_name}</code><b>
 
 ╭─────── • ◆ • ───────╮
-✪ Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/rb1official">ғʀᴏᴍ ʜᴇʀᴇ</a> ✪
+✪ Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/rb1official">ғʀᴏᴍ ʜᴇʀᴇ</a>  ✪
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
