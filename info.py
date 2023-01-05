@@ -47,7 +47,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 SHORTENR_URL = environ.get('SHORTENR_URL', 'shorturllink.in')
-SHORTNER_API = environ.get('SHORTNER_API', '')
+SHORTNER_API = environ.get('SHORTNER_API', 'd2ac0cef4a3d14ea75b37aa70c75a4acee726479')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/requestbox1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rb1official')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
